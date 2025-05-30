@@ -7,6 +7,7 @@
 * [Primary Objective](#primary-objective)
 * [Project Steps](#project-steps)
 
+---
 
 ## About the Project
 
@@ -15,6 +16,7 @@
 
 Dream Housing Finance Company offers home loans across urban, semi-urban, and rural areas. The company seeks to automate the loan eligibility process based on customer details provided during the online application. These details include gender, marital status, education, number of dependents, income, loan amount, and credit history. The goal is to identify customer segments eligible for loan approval to streamline the process and target specific customers effectively.
 
+---
 
 ## Why Loan Eligibility Prediction is Crucial
 
@@ -100,4 +102,3 @@ By following these steps, the project aims to develop a robust model capable of 
 
 [1]: https://github.com/Ash-180/Loan-Prediction?utm_source=chatgpt.com "GitHub - Ash-180/Loan-Prediction: Dream Housing Finance company offers home loans to customers. The company takes into account personal information(demographic variables, historical loan status or economic variables) to either approve or deny the loan request for a particular amount and term."
 [2]: https://github.com/Rishikeshrajrxl/Predict-Loan-Eligibility-for-Dream-Housing-Finance-company?utm_source=chatgpt.com "GitHub - Rishikeshrajrxl/Predict-Loan-Eligibility-for-Dream-Housing-Finance-company: Loan Prediction Analytics vidhya Hackathons. Predict Loan Eligibility for Dream Housing Finance company.Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. Used Machine Learning model to Achieve maximum Accuracy."
-
